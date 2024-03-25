@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **anudab26@gmail.com**
 
+- 🔗 My Portfolio **https://anudab.github.io/myPortfolio/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anuda bogahawattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuda bogahawattage" height="30" width="40" /></a>
